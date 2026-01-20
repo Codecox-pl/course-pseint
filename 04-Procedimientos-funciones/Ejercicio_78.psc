@@ -37,7 +37,7 @@ Algoritmo Ejercicio_78
 	Si res Entonces
 		Imprimir "Es un numero fuerte"
 	SiNo
-		Imprimir "No un numero fuerte"
+		Imprimir "No es un numero fuerte"
 	Fin Si
 	
 
